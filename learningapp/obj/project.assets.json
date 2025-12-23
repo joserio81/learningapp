@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/jose/Desktop/tests/tmp2/learningapp/learningapp.csproj",
+      "projectUniqueName": "/Users/jose/Desktop/az-204/tmp2/learningapp/learningapp.csproj",
       "projectName": "learningapp",
-      "projectPath": "/Users/jose/Desktop/tests/tmp2/learningapp/learningapp.csproj",
+      "projectPath": "/Users/jose/Desktop/az-204/tmp2/learningapp/learningapp.csproj",
       "packagesPath": "/Users/jose/.nuget/packages/",
-      "outputPath": "/Users/jose/Desktop/tests/tmp2/learningapp/obj/",
+      "outputPath": "/Users/jose/Desktop/az-204/tmp2/learningapp/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/jose/.nuget/NuGet/NuGet.Config"
